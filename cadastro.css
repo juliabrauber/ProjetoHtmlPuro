@@ -1,0 +1,23 @@
+.corDoFundo {
+    background: rgb(112, 79, 94);
+}
+.CorTitulo {
+    color:white;
+}
+label {
+    font-weight: bold;
+}
+tr{
+    display: flex;
+}
+th{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+td{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+table{
+    margin-top: 15px;
+}
